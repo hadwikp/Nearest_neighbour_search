@@ -92,7 +92,7 @@ int main()
     {
         cout<<"Test Vector "<<i+1<<"\n";
         ofstream output;
-        output.open("testvector"+to_string(i+1)+".csv");
+        output.open("testvector_"+to_string(i+1)+".csv");
         output<<KNN_function(testData.getVector(i),trainData,k);
         output.close();
     }
