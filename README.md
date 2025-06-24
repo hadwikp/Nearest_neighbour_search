@@ -15,7 +15,7 @@ Efficient nearest-neighbour search over high-dimensional data, offering two appr
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/nearest_neighbour_search.git
+   git clone https://github.com/hadwikp/nearest_neighbour_search.git
    cd nearest_neighbour_search
    ```
 2. Unzip the dataset files into the project root.
